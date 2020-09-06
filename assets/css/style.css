@@ -1,3 +1,29 @@
 body {
-    background-image: url(../assets/images/webb.png)
+    background-image: url(../../assets/images/webb.png)
+}
+
+hr {
+    border: 2px solid lightgrey;
+}
+
+.navbar-brand {
+    height: 70px;
+    width: 200px;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    text-align: center;
+    line-height: 55px;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+header {
+    border-style: solid #cccccc;
+}
+
+.nav-link {
+    color: #777777;
 }
