@@ -29,7 +29,7 @@ header {
     color: #777777;
 }
 
-.about-me {
+.main {
     padding-top: 50px;
     padding-right: 50px;
     padding-bottom: 50px;
@@ -47,4 +47,14 @@ footer {
     padding: 35px;
     color: #777777;
     border-top: 10px solid #4aaaa5;
+}
+
+.float-left {
+    float: left;
+    margin: 50px;
+}
+
+.float-right {
+    float: right;
+    margin: 50px;
 }
