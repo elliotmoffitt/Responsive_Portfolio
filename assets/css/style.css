@@ -59,12 +59,13 @@ header {
     border-top: 10px solid #4aaaa5;
 }
 
-.float-left {
-    float: left;
-    margin: 50px;
+.portfolio-images {
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-left: 60px;
+    height: 200px;
 }
 
-.float-right {
-    float: right;
-    margin: 50px;
+.portfolio-main {
+    margin-bottom: 100px;
 }
