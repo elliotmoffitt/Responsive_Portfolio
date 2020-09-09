@@ -64,8 +64,24 @@ header {
     margin-right: 50px;
     margin-left: 60px;
     height: 200px;
+    position: relative;
+    display: inline-block;
 }
 
 .portfolio-main {
     margin-bottom: 100px;
+}
+
+.text {
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+}
+
+.h1-responsive {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
 }
